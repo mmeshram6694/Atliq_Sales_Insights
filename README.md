@@ -50,9 +50,9 @@ To help the sales leadership at AtliQ Hardware uncover hidden patterns in sales 
 
 ## 📸 Dashboard Snapshots
 
-> ![Dashboard Screenshot](./screenshots/overview.png)
-> ![Profit Analysis](./screenshots/profit_insights.png)
-
+> ![Dashboard Screenshot](./Dashboard.png)
+> ![Profit Analysis](./Profit_Analysis.png)
+> ![Performance Insights](./Performance_Insights.png)
 ---
 
 ## 📈 Key Insights
